@@ -1,2 +1,4 @@
 # Credit-Card-Analysis
-Seeing the factors contributing to the defaulters
+Analysing the defaulters and non-defaulters by the education, gender, marital status, state and age
+Identifying the misclassified customers
+
